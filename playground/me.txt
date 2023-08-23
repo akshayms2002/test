@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akshay ms
-Skills: HTML, CSS, JS,java,python,c#
-Email: akshayms1418@gmail.com
-{{/user}}
